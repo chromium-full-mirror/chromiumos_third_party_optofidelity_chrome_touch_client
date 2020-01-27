@@ -1,0 +1,4 @@
+DESCRIPTION="Chrome extension to show manual touch validation instructions"
+LOCAL_GIT_REPO="https://chromium.googlesource/com/chromiumos/third_party/optofidelity_chrome_touch_client
+LOCAL_BUGSDB="https://crbug.com"
+LICENSE="4-clause BSD"
